@@ -5,6 +5,9 @@ nav_order: 5
 permalink: /about/
 --- 
 
+![Ashley](/assets/about/ashley_bridge.jpg)
+*Ashley at Turkey Run State Park*
+
 ## About Me 
 
 Good to see you here. 
