@@ -28,6 +28,7 @@ url: wonash.github.io
 theme: just-the-docs
 plugins:
   - jekyll-feed
+  - jekyll-default-layout
 
 defaults:
   - scope:

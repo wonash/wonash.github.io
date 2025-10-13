@@ -7,10 +7,12 @@ source "https://rubygems.org"
 #
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
-# gem "jekyll", "~> 4.4.1" # <--- default 
-gem "github-pages", "~> 232", group: :jekyll_plugins
-# This is the default theme for new Jekyll sites. You may change this to anything you like.
+gem "jekyll", "~> 4.4.1" # <--- default
+# gem "github-pages", "~> 232", group: :jekyll_plugins
 
+gem "jekyll-default-layout"
+
+# This is the default theme for new Jekyll sites. You may change this to anything you like.
 # gem "minima", "~> 2.5" # 
 gem "just-the-docs"
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
@@ -34,3 +36,4 @@ gem "wdm", "~> 0.1", :platforms => [:mingw, :x64_mingw, :mswin]
 # Lock `http_parser.rb` gem to `v0.6.x` on JRuby builds since newer versions of the gem
 # do not have a Java counterpart.
 gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
+
