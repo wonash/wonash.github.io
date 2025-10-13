@@ -2,7 +2,11 @@
 layout: page
 title: Coursework 
 nav_order: 2
-permalink: /coursework/  
+permalink: /coursework/
+
+last_edit_timestamp: true
+last_edit_time_format: "%b %e %Y at %I:%M %p"
+last_modified_date: Oct 12 2025 20:17 # manual (??)  
 
 ---
 
@@ -67,4 +71,4 @@ graph TD;
  - [EAS-A339: Weather Analysis and Forecasting
 ](https://iuearth.com/a339/) 
 
-Last update: Oct 12 2025 
+

@@ -2,7 +2,13 @@
 layout: page
 title: About
 nav_order: 5
-permalink: /about/
+permalink: /about/ 
+
+
+last_edit_timestamp: true
+last_edit_time_format: "%b %e %Y at %I:%M %p"
+last_modified_date: Oct 12 2025 20:18 # manual (??) 
+
 --- 
 
 ![Ashley](/assets/about/ashley_bridge.jpg)
