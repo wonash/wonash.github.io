@@ -15,4 +15,4 @@ Hi there! My name is **Ashley Won** and I am a **junior** from **Indiana Univers
 
 This website contains information about myself and my involvement at IU.
 
-Want to get in touch? Feel free to [contact](wonash.github.io/contact/) me. 
+Want to get in touch? Feel free to [contact](https://wonash.github.io/contact/) me. 
