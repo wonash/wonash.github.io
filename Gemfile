@@ -8,9 +8,8 @@ source "https://rubygems.org"
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
 # gem "jekyll", "~> 4.4.1" # <--- default
-# gem "github-pages", "~> 232", group: :jekyll_plugins # deploy from github actions  
-gem "jekyll", "~> 4.2" # try 
-
+gem "github-pages", "~> 232", group: :jekyll_plugins # deploy from github actions  
+# gem "jekyll", "~> 4.2" # try 
 gem "jekyll-default-layout"
 
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
