@@ -8,7 +8,7 @@ source "https://rubygems.org"
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
 # gem "jekyll", "~> 4.4.1" # <--- default
-gem "github-pages", "~> 232", group: :jekyll_plugins # my 
+gem "github-pages", "~> 232", group: :jekyll_plugins # deploy from github actions  
 # gem "jekyll", "~> 4.2" # try 
 
 gem "jekyll-default-layout"
