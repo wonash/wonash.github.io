@@ -6,7 +6,7 @@ permalink: /coursework/
 
 last_edit_timestamp: true
 last_edit_time_format: "%b %e %Y at %I:%M %p"
-last_modified_date: Oct 12 2025 20:17 # manual (??)  
+last_modified_date: Oct 14 2025 23:35 # manual (??)  
 
 ---
 
@@ -51,6 +51,18 @@ graph TD;
 ### Spring 2026 (TBD)
 
 ## Mathematics Minor... 
+
+### Summer 2024 
+
+- MATH-M211: Calculus I (transferred) 
+
+### Spring 2025 
+
+- MATH-M301: Linear Algebra and Applications 
+
+### Fall 2025 (ongoing)
+
+- MATH-M212: Calculus II 
 
 ## Atmospheric Science Minor... 
 
