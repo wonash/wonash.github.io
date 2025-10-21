@@ -11,7 +11,7 @@ permalink: /
 
 ## Welcome! 
 
-Hi there! My name is **Ashley Won** and I am a **junior** from **Indiana University Bloomington (IUB)** pursuing a bachelors degree in **computer science**! 
+Hi there! My name is **Ashley Won** and I am a student from **Indiana University Bloomington (IUB)** pursuing a bachelors degree in **computer science**! 
 
 This website contains information about myself and my involvement at IU.
 

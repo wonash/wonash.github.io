@@ -10,9 +10,12 @@ last_modified_date: Oct 14 2025 23:35 # manual (??)
 
 ---
 
+<link rel="stylesheet" type="text/css" href="/assets/css/index.css">
+<script src="/assets/javascript/index.js"></script>
+
 ## Coursework 
 
-This page contains the (relevant) coursework I have completed during my time in Indiana University. 
+This page contains the (relevant) coursework I have completed during my time at Indiana University. 
 
 ## Computer Science Bachelors... 
 
@@ -21,6 +24,8 @@ graph TD;
     A[CSCI-C211: Introduction to Computer Science] -->|Prerequisite| B[CSCI-C212: Introduction to Software Systems]
     B -->|Prerequisite| C[CSCI-C343: Data Structures]
     A -->|Prerequisite| D[CSCI-C241: Discrete Structures for Computer Science]
+    C --> |Prerequisite| E[CSCI-B461: Database Concepts]
+    F[CSCI-C291: System Programming with C and Unix]
 ```
 
 ### Fall 2023
@@ -54,7 +59,7 @@ graph TD;
 
 ### Summer 2024 
 
-- MATH-M211: Calculus I (transferred) 
+- MATH-M211: Calculus I (credit transferred) 
 
 ### Spring 2025 
 
@@ -74,7 +79,7 @@ graph TD;
 
 ### Spring 2025 
 
-- PHYS-P221: PHYSICS 1 
+- PHYS-P221: Physics 1 
 - [EAS-A460: Mesoscale Meteorology
 ](https://iuearth.com/a460/) 
 
