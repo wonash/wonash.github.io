@@ -46,8 +46,6 @@ graph TD;
 
 ### Spring 2025 
 
-- happens >:( 
-
 ### Fall 2025 (ongoing)
 
 - CSCI-C291: System Programming with C and Unix 

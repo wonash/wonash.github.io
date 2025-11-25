@@ -1,0 +1,30 @@
+<button class="btn js-toggle-dark-mode">Dark Mode</button>
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  const toggleDarkMode = document.querySelector('.js-toggle-dark-mode');
+  
+  const savedTheme = localStorage.getItem('jtd-theme');
+  
+  if (savedTheme) {
+    jtd.setTheme(savedTheme);
+  }
+  
+  if (jtd.getTheme() === 'dark') {
+    toggleDarkMode.textContent = 'Light Mode';
+  } else {
+    toggleDarkMode.textContent = 'Dark Mode';
+  }
+
+  jtd.addEvent(toggleDarkMode, 'click', function(){
+    if (jtd.getTheme() === 'dark') {
+      jtd.setTheme('light');
+      localStorage.setItem('jtd-theme', 'light');
+      toggleDarkMode.textContent = 'Dark Mode';
+    } else {
+      jtd.setTheme('dark');
+      localStorage.setItem('jtd-theme', 'dark');
+      toggleDarkMode.textContent = 'Light Mode';
+    }
+  });
+});
+</script>
