@@ -16,8 +16,12 @@ last_modified_date: Nov 24 2025 19:26 # manual (??)
 
 ## About Me 
 
+> Section is work in progress! 
+
 Good to see you here. 
 
-I am Ashley Won, or, 원수연 (Won Sueyeon) depending on what language you want to use to refer me by. 
+I am Ashley Won, or, 원수연 (Won Sueyeon) depending on what language you want to refer me by. 
 
-I was born and raised in **Bloomington, Indiana**, but I have family in **Seoul, South Korea** and spent a considerable time there. Currently, I am studying computer science at Luddy School of Informatics, Computing, and Engineering, at Indiana University Bloomington. 
+I was born and raised in Bloomington, Indiana, but I have family in Seoul, South Korea and spent a considerable time there. Currently, I am studying computer science at Luddy School of Informatics, Computing, and Engineering, at Indiana University Bloomington. 
+
+In my free time, I enjoy working on my personal projects, writing stories, drawing, taking care of my houseplants, and playing video games. 

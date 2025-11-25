@@ -6,7 +6,7 @@ permalink: /coursework/
 
 last_edit_timestamp: true
 last_edit_time_format: "%b %e %Y at %I:%M %p"
-last_modified_date: Oct 14 2025 23:35 # manual (??)  
+last_modified_date: Nov 24 2025 21:01 # manual (??)  
 
 ---
 
@@ -14,6 +14,8 @@ last_modified_date: Oct 14 2025 23:35 # manual (??)
 <script src="/assets/javascript/index.js"></script>
 
 ## Coursework 
+
+> Section is work in progress! 
 
 This page contains the (relevant) coursework I have completed during my time at Indiana University. 
 
@@ -46,12 +48,15 @@ graph TD;
 
 ### Spring 2025 
 
-### Fall 2025 (ongoing)
+### Fall 2025 
 
 - CSCI-C291: System Programming with C and Unix 
 - CSCI-B461: Database Concepts 
 
-### Spring 2026 (TBD)
+### Spring 2026 (planned) 
+
+- CSCI-C335: Computer Structures 
+- CSCI-C351: Introduction to Artificial Intelligence  
 
 ## Mathematics Minor... 
 
@@ -63,7 +68,7 @@ graph TD;
 
 - MATH-M301: Linear Algebra and Applications 
 
-### Fall 2025 (ongoing)
+### Fall 2025 
 
 - MATH-M212: Calculus II 
 
@@ -81,9 +86,8 @@ graph TD;
 - [EAS-A460: Mesoscale Meteorology
 ](https://iuearth.com/a460/) 
 
-### Fall 2025 (ongoing)
+### Fall 2025 
 
  - [EAS-A339: Weather Analysis and Forecasting
 ](https://iuearth.com/a339/) 
-
 
