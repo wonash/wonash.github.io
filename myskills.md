@@ -15,5 +15,3 @@ I have experience in Web Development. I personally enjoy simple and straightforw
 
 I am familiar with the command line interface, in particular, zsh. I would like to get learn more about shell scripting. 
 
-I am learning C programming, and have experience using Vim and Neovim. I use the [LazyVim](https://github.com/LazyVim/LazyVim) setup. 
-
