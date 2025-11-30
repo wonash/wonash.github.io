@@ -32,14 +32,14 @@ graph TD;
 
 ### Fall 2023
 
-- CSCI-C211: Introduction to Computer Science 
+- [CSCI-C211: Introduction to Computer Science](https://homes.luddy.indiana.edu/classes/fall2025/csci/c211-samth/)
 
 ### Spring 2024 
 
 - [CSCI-C212: Introduction to Software Systems 
 ](https://joshuacrotts.us/teaching/c212-s24.html)
 - CSCI-C241: Discrete Structures for Computer Science
-- INFO-I101: Introduction to Informatics 
+- [INFO-I101: Introduction to Informatics](https://i101.luddy.indiana.edu/index.html)
 
 ### Fall 2024
 
