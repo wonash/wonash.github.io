@@ -6,7 +6,7 @@ permalink: /coursework/
 
 last_edit_timestamp: true
 last_edit_time_format: "%b %e %Y at %I:%M %p"
-last_modified_date: Nov 24 2025 21:01 # manual (??)  
+last_modified_date: Dec 30 2025 00:09 # manual (??)  
 
 ---
 
@@ -51,6 +51,7 @@ graph TD;
 ### Fall 2025 
 
 - CSCI-C291: System Programming with C and Unix 
+    - 
 - CSCI-B461: Database Concepts 
 
 ### Spring 2026 (planned) 
@@ -85,9 +86,13 @@ graph TD;
 - PHYS-P221: Physics 1 
 - [EAS-A460: Mesoscale Meteorology
 ](https://iuearth.com/a460/) 
+    - [Presentation Poster
+](/assets/coursework/poster_final.pdf) 
 
 ### Fall 2025 
 
  - [EAS-A339: Weather Analysis and Forecasting
 ](https://iuearth.com/a339/) 
+    - [Presentation Poster
+](/assets/coursework/a339_poster.pdf) 
 

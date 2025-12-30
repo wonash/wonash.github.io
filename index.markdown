@@ -15,4 +15,4 @@ Hi there! My name is **Ashley Won** and I am a student from **Indiana University
 
 This website contains information about myself and my involvement at IU.
 
-Want to get in touch? Feel free to [contact](/contact/) me, or check out my [resume](/assets/about/ashleywon_resume.pdf)!  
+Want to get in touch? Feel free to [contact](/contact/) me, or check out my [resume](/assets/images/about/ashleywon_resume.pdf)!  

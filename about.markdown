@@ -11,7 +11,7 @@ last_modified_date: Nov 24 2025 19:26 # manual (??)
 
 --- 
 
-![Ashley](/assets/about/ashley_bridge.jpg)
+![Ashley](/assets/images/about/ashley_bridge.jpg)
 *Ashley at Turkey Run State Park*
 
 ## About Me 
