@@ -17,7 +17,7 @@ last_modified_date: Dec 30 2025 00:09 # manual (??)
 
 > Section is work in progress! 
 
-This page contains the (relevant) coursework I have completed during my time at Indiana University. 
+This page contains the (relevant) coursework I have completed during my time at Indiana University.  
 
 ## Computer Science Bachelors... 
 
