@@ -46,15 +46,12 @@ graph TD;
 - CSCI-C343: Data Structures 
 - CSCI-Y395: Career Development for CSCI Majors 
 
-### Spring 2025 
-
 ### Fall 2025 
 
 - CSCI-C291: System Programming with C and Unix 
-    - 
 - CSCI-B461: Database Concepts 
 
-### Spring 2026 (planned) 
+### Spring 2026 
 
 - CSCI-C335: Computer Structures 
 - CSCI-C351: Introduction to Artificial Intelligence  
@@ -72,6 +69,10 @@ graph TD;
 ### Fall 2025 
 
 - MATH-M212: Calculus II 
+
+### Spring 2026 
+
+- MATH-M391: Introduction to Mathematical Reasoning 
 
 ## Atmospheric Science Minor... 
 
