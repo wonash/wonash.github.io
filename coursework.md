@@ -54,7 +54,7 @@ graph TD;
 ### Spring 2026 
 
 - CSCI-C335: Computer Structures 
-- CSCI-C351: Introduction to Artificial Intelligence  
+- CSCI-B351: Introduction to Artificial Intelligence  
 
 ## Mathematics Minor... 
 

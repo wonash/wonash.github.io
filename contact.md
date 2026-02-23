@@ -11,4 +11,4 @@ permalink: /contact/
 
 You can contact me through email: 
 
-- Email: ashleywon123@gmail.com 
+- Email: aswon@iu.edu 
