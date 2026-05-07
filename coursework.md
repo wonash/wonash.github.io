@@ -21,15 +21,6 @@ This page contains the (relevant) coursework I have completed during my time at 
 
 ## Computer Science Bachelors... 
 
-```mermaid
-graph TD;
-    A[CSCI-C211: Introduction to Computer Science] -->|Prerequisite| B[CSCI-C212: Introduction to Software Systems]
-    B -->|Prerequisite| C[CSCI-C343: Data Structures]
-    A -->|Prerequisite| D[CSCI-C241: Discrete Structures for Computer Science]
-    C --> |Prerequisite| E[CSCI-B461: Database Concepts]
-    F[CSCI-C291: System Programming with C and Unix]
-```
-
 ### Fall 2023
 
 - [CSCI-C211: Introduction to Computer Science](https://homes.luddy.indiana.edu/classes/fall2025/csci/c211-samth/)
@@ -55,6 +46,9 @@ graph TD;
 
 - CSCI-C335: Computer Structures 
 - CSCI-B351: Introduction to Artificial Intelligence  
+    - Final project: Bullet-Hell Automation using Artificial Intelligence 
+    - [Report](/assets/coursework/report.pdf)  
+    - [Source code](https://github.iu.edu/hallzj/B351-FinalProject) 
 
 ## Mathematics Minor... 
 
