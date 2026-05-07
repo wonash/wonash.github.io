@@ -49,6 +49,7 @@ This page contains the (relevant) coursework I have completed during my time at 
     - Final project: Bullet-Hell Automation using Artificial Intelligence 
     - [Report](/assets/coursework/report.pdf)  
     - [Source code](https://github.iu.edu/hallzj/B351-FinalProject) 
+    - [Poster](/assets/coursework/poster.pdf) 
 
 ## Mathematics Minor... 
 
