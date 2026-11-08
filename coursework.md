@@ -6,7 +6,7 @@ permalink: /coursework/
 
 last_edit_timestamp: true
 last_edit_time_format: "%b %e %Y at %I:%M %p"
-last_modified_date: Dec 30 2025 00:09 # manual (??)  
+last_modified_date: Nov 7 2026 20:02  
 
 ---
 
@@ -15,11 +15,9 @@ last_modified_date: Dec 30 2025 00:09 # manual (??)
 
 ## Coursework 
 
-> Section is work in progress! 
+This page contains the coursework I have completed during my time at Indiana University.  
 
-This page contains the (relevant) coursework I have completed during my time at Indiana University.  
-
-## Computer Science Bachelors... 
+## Computer Science Bachelors 
 
 ### Fall 2023
 
@@ -51,11 +49,16 @@ This page contains the (relevant) coursework I have completed during my time at 
     - [Source code](https://github.iu.edu/hallzj/B351-FinalProject) 
     - [Poster](/assets/coursework/poster.pdf) 
 
-## Mathematics Minor... 
+### Fall 2026 
+
+- CSCI-P438: Computer Networks 
+- CSCI-B403: Algorithm Design and Analysis 
+
+## Mathematics Minor
 
 ### Summer 2024 
 
-- MATH-M211: Calculus I (credit transferred) 
+- MATH-M211: Calculus I 
 
 ### Spring 2025 
 
@@ -67,9 +70,9 @@ This page contains the (relevant) coursework I have completed during my time at 
 
 ### Spring 2026 
 
-- MATH-M391: Introduction to Mathematical Reasoning 
+- MATH-M391: Mathematical Reasoning 
 
-## Atmospheric Science Minor... 
+## Atmospheric Science Minor
 
 ### Fall 2024 
 
@@ -91,4 +94,3 @@ This page contains the (relevant) coursework I have completed during my time at 
 ](https://iuearth.com/a339/) 
     - [Presentation Poster
 ](/assets/coursework/a339_poster.pdf) 
-

@@ -8,7 +8,3 @@ permalink: /contact/
 ## Contact 
 
 > Section is work in progress! 
-
-You can contact me through email: 
-
-- Email: aswon@iu.edu 

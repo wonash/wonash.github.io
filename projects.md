@@ -8,5 +8,3 @@ permalink: /projects/
 ## Projects 
 
 > Section is work in progress! 
-
-Refer to my [Github](https://github.com/wonash). 
