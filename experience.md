@@ -20,9 +20,7 @@ I created indoor airflow simulations using Rhino 8, a 3D building model and the 
 
 I plan to attend the [ASHRAE 2027 Winter Conference](https://www.ashrae.org/conferences/2027-winter-conference) and continue this research beyond the REU and contribute to practical solutions for air quality management.
 
-[Research Poster](assets/reu2026_poster.pdf) · [Final REU Report](assets/reu2026_report.pdf) 
-
-Note that the Final REU Report is a report for my REU program, and is not my ASHRAE 2027 manuscript. 
+[Research Poster](assets/reu2026_poster.pdf) · [Final REU Report](assets/reu2026_report.pdf) · [ASHRAE Manuscript](assets/261006_Manuscript.pdf)
 
 ## Teaching
 
